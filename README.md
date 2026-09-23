@@ -193,4 +193,4 @@ electricity-intelligence/
 └── README.md
 ```
 
-The project report is submitted separately as required by the internship.
+
